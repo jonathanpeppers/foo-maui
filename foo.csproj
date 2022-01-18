@@ -2,6 +2,7 @@
 
 	<PropertyGroup>
 		<RuntimeIdentifier>android-arm64</RuntimeIdentifier>
+		<AndroidPackageFormat>apk</AndroidPackageFormat>
 		<TargetFramework>net6.0-android</TargetFramework>
 		<OutputType>Exe</OutputType>
 		<RootNamespace>foo</RootNamespace>
